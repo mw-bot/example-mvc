@@ -1,0 +1,7 @@
+{
+    "name": "peter-mw/example-mvc",
+    "type": "microweber-module",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
